@@ -1,3 +1,6 @@
 [submodule "helper-basics"]
 	path = modules/helper-basics
 	url = https://github.com/metsuke/helper-basics
+[submodule "modules/a11y-db"]
+	path = modules/a11y-db
+	url = https://github.com/metsuke/a11y-db
